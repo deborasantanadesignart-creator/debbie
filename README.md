@@ -64,10 +64,6 @@
     <img src="./assets/social-behance.svg" width="52" height="52" alt="Behance" title="Behance" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://dribbble.com/SEU-USUARIO" target="_blank">
-    <img src="./assets/social-dribbble.svg" width="52" height="52" alt="Portfólio / Dribbble" title="Portfólio / Dribbble" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://instagram.com/SEU-USUARIO" target="_blank">
     <img src="./assets/social-instagram.svg" width="52" height="52" alt="Instagram" title="Instagram" />
   </a>
