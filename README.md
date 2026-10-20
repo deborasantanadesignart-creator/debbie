@@ -43,9 +43,9 @@
   &nbsp;
   <img src="./assets/icon-id.svg" width="56" height="56" alt="InDesign" title="Adobe InDesign" />
   &nbsp;
-  <img src="./assets/icon-ae.svg" width="56" height="56" alt="After Effects" title="Adobe After Effects" />
-  &nbsp;
   <img src="./assets/icon-pr.svg" width="56" height="56" alt="Premiere Pro" title="Adobe Premiere Pro" />
+</div>
+  <img src="./assets/icon-vscode.svg" width="56" height="56" alt="Visual Studio Code" title="VS" />
 </div>
 
 <br />
