@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Débora Santana - Graphic Designer" width="100%" />
 </div>
 
 <br />
