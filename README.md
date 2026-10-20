@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  Graduada em <b>Design Gráfico</b> pelo Centro Universitário UNA. De freelancer a projetos autorais e corporativos, desenvolvo soluções que refletem propósito: desde ilustrações a interfaces, identidades visuais, projetos gráficos e mídias digitais. Meu foco é transformar ideias através de processos criativos e estratégicos.
+  Graduada em <b>Design Gráfico</b> Oiii eu sou a Débora, Design Gráfico e estudante de tecnologia :)
 </p>
 
 <div align="center">
