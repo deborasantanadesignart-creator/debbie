@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  Oi eu sou a <b>Débora</b>, Design Gráfico e estudante de tecnologia :)
+  Oi eu sou a <b>Débora</b>, Design Gráfica e estudante de tecnologia :)
 </p>
 
 <div align="center">
@@ -15,17 +15,17 @@
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>Design Gráfico, Estética & Produção:</b> Formação sólida e multifacetada focada na fusão entre estratégia, estética e tecnologia. Domínio completo de fundamentos visuais (Sintaxe Visual, Gestalt e Psicologia da Cor), Metodologias de Criação, Identidade Visual, Tipografia Aplicada, Design Editorial e gestão de Produção Gráfica (pré-impressão e acabamentos), além de desenvolvimento em Animação e Motion Design.
+  <b>UI/UX & Tecnologias Cognitivas</b> Design Systems, Prototipação, UX Research (Quali/Quanti), Design Thinking, Arquitetura da Informação e Padrões de IHC aplicados a sistemas autônomos e IA.
 </p>
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>Product Design (UX/UI) & Tecnologias Cognitivas/IA:</b> Concepção, estratégia e desenvolvimento de produtos digitais centrados no usuário, unindo psicologia cognitiva, engenharia de usabilidade e interface. Abrange Arquitetura da Informação, Wireframes e Prototipação voltados a testes de usabilidade, Design Systems escaláveis focados em consistência e acessibilidade, UX Research (métodos qualitativos e quantitativos), Design Thinking e <b>UX para Tecnologias Cognitivas e IA</b> (padrões de IHC aplicados a sistemas autônomos e inteligência artificial).
+  <b>Design Gráfico & Direção de Arte</b> Gestalt, Psicologia da Cor, Identidade Visual, Tipografia, Design Editorial, Motion Design e Produção Gráfica (pré-impressão/acabamentos).
 </p>
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>Narrativa Audiovisual & VFX:</b> Formação complementar em Cinema e Audiovisual, aprofundando competências em Tratamento de Imagem, Efeitos Visuais (VFX), Pós-Produção e Stop-Motion.
+  <b>Narrativa Audiovisual & VFX:</b> Tratamento de Imagem, Efeitos Visuais, Pós-Produção de vídeo e Stop-Motion.
 </p>
 
 <div align="center">
