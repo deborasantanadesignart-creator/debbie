@@ -3,7 +3,7 @@
   <img src="./assets/minha-logo_Prancheta 1.svg" width="100" alt="Logo Débora Santana" />
 </div>
 
-<h3 align="center">Oi, eu sou a <i>Débora</i>, Design Gráfica e Web Designer! :)</h3>
+<h3 align="center">Oi, eu sou a <i>Débora</i>, Design Gráfica e Web Designer :)</h3>
 
 <br />
 
