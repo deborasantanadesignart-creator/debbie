@@ -12,7 +12,7 @@
 </div>
 
 ### ✦ Minhas Especialidades
-
+&nbsp;
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
   <b>UI/UX & Tecnologias Cognitivas</b> Design Systems, Prototipação, UX Research (Quali/Quanti), Design Thinking, Arquitetura da Informação e Padrões de IHC aplicados a sistemas autônomos e IA.
