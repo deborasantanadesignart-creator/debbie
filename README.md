@@ -1,4 +1,7 @@
 <br />
+<div align="center">
+  <img src="./assets/logo.svg" width="80" alt="Logo Débora Santana" />
+</div>
 
 <h3 align="center">Oi, eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)</h3>
 
