@@ -31,7 +31,7 @@
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
+&nbsp;
 ### ✦ Ferramentas & Software
 
 <div align="center">
