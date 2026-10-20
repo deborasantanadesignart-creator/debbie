@@ -23,7 +23,7 @@
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>Narrativa Audiovisual & VFX:</b> Tratamento de Imagem, Efeitos Visuais, Pós-Produção de vídeo e Stop-Motion.
+  <b>Narrativa Audiovisual:</b> Tratamento de Imagem, Efeitos Visuais e Pós-Produção de vídeo.
 </p>&nbsp;
 
 <div align="center">
