@@ -1,18 +1,18 @@
-<div align="center">
+
 
 <br />
 
-<p align="center">
+<div><p align="center">
   
   ### Oi eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)
 </p>&nbsp;
-
+</div>
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-
+<div><p align="center">
 ### ✦ Minhas Especialidades
-&nbsp;
+&nbsp;</div>
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
   <b>UI/UX & Tecnologias Cognitivas</b> Design Systems, Prototipação, UX Research (Quali/Quanti), Design Thinking, Arquitetura da Informação e Padrões de IHC aplicados a sistemas autônomos e IA.
