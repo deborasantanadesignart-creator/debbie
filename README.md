@@ -11,7 +11,8 @@
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 <div><p align="center">
-### ✦ Minhas Especialidades
+
+  ### ✦ Minhas Especialidades
 &nbsp;</div>
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
