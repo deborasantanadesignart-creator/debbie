@@ -2,6 +2,9 @@
 
 <br />
   
+<p align="center">
+  
+  
   ### Oi eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)
 </p>&nbsp;
 <div align="center">
