@@ -41,7 +41,7 @@
   &nbsp;
   <img src="./assets/icon-id.svg" width="56" height="56" alt="InDesign" title="Adobe InDesign" />
   &nbsp; <img src="./assets/icon-pr.svg" width="56" height="56" alt="Premiere Pro" title="Adobe Premiere Pro" />
- <img src="./assets/icon-capcut.svg" width="56" height="56" alt="CapCut" title="CapCut" />&nbsp;
+&nbsp; <img src="./assets/icon-capcut.svg" width="56" height="56" alt="CapCut" title="CapCut" />&nbsp;
 <img src="./assets/icon-vscode.svg" width="56" height="56" alt="Visual Studio Code" title="VS" />&nbsp;
 </div>
 </div>
