@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-  Oi eu sou a <b>Débora</b>, Design Gráfica e estudante de tecnologia :)
+  Oi eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)
 </p>
 
 <div align="center">
