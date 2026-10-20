@@ -1,39 +1,45 @@
+<br />
 
+<h3 align="center">Oi, eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)</h3>
 
 <br />
-  
-<p align="center">
-  
-  
-  ### Oi eu sou a <b>Débora</b>, Design Gráfica e Web Designer :)
-</p>&nbsp;
+
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
-<div><p align="center">
 
-  ### ✦ Minhas Especialidades
-&nbsp;</div>
+<br />
+
+<h3 align="center">✦ Minhas Especialidades</h3>
+
+<br />
+
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>UI/UX & Tecnologias Cognitivas</b> Design Systems, Prototipação, UX Research (Quali/Quanti), Design Thinking, Arquitetura da Informação e Padrões de IHC aplicados a sistemas autônomos e IA.
+  <b>UI/UX & Tecnologias Cognitivas:</b> Design Systems, Prototipação, UX Research (Quali/Quanti), Design Thinking, Arquitetura da Informação e Padrões de IHC aplicados a sistemas autônomos e IA.
 </p>
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
-  <b>Design Gráfico & Direção de Arte</b> Gestalt, Psicologia da Cor, Identidade Visual, Tipografia, Design Editorial, Motion Design e Produção Gráfica (pré-impressão/acabamentos).
+  <b>Design Gráfico & Direção de Arte:</b> Gestalt, Psicologia da Cor, Identidade Visual, Tipografia, Design Editorial, Motion Design e Produção Gráfica (pré-impressão/acabamentos).
 </p>
 
 <p>
   <img src="./assets/bullet.svg" width="16" height="16" align="center" />
   <b>Narrativa Audiovisual:</b> Tratamento de Imagem, Efeitos Visuais e Pós-Produção de vídeo.
-</p>&nbsp;
+</p>
+
+<br />
 
 <div align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
-### ✦ Ferramentas & Software
+<br />
+
+<h3 align="center">✦ Ferramentas & Software</h3>
+
+<br />
 
 <div align="center">
   <img src="./assets/icon-figma.svg" width="56" height="56" alt="Figma" title="Figma" />
@@ -43,10 +49,12 @@
   <img src="./assets/icon-ai.svg" width="56" height="56" alt="Illustrator" title="Adobe Illustrator" />
   &nbsp;
   <img src="./assets/icon-id.svg" width="56" height="56" alt="InDesign" title="Adobe InDesign" />
-  &nbsp; <img src="./assets/icon-pr.svg" width="56" height="56" alt="Premiere Pro" title="Adobe Premiere Pro" />
-&nbsp; <img src="./assets/icon-capcut.svg" width="56" height="56" alt="CapCut" title="CapCut" />&nbsp;
-<img src="./assets/icon-vscode.svg" width="56" height="56" alt="Visual Studio Code" title="VS" />&nbsp;
-</div>
+  &nbsp;
+  <img src="./assets/icon-pr.svg" width="56" height="56" alt="Premiere Pro" title="Adobe Premiere Pro" />
+  &nbsp;
+  <img src="./assets/icon-capcut.svg" width="56" height="56" alt="CapCut" title="CapCut" />
+  &nbsp;
+  <img src="./assets/icon-vscode.svg" width="56" height="56" alt="Visual Studio Code" title="VS Code" />
 </div>
 
 <br />
@@ -55,7 +63,11 @@
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 
-### ✦ Conecte-se comigo
+<br />
+
+<h3 align="center">✦ Conecte-se comigo</h3>
+
+<br />
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
@@ -70,7 +82,7 @@
     <img src="./assets/social-instagram.svg" width="52" height="52" alt="Instagram" title="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU-EMAIL@AQUI.COM">
+  <a href="mailto:deborasantana.design.art@gmail.com">
     <img src="./assets/social-email.svg" width="52" height="52" alt="Email" title="Email" />
   </a>
 </div>
