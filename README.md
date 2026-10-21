@@ -73,11 +73,11 @@
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/debora-design" target="_blank">
     <img src="./assets/social-linkedin.svg" width="52" height="52" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://behance.net/SEU-USUARIO" target="_blank">
+  <a href="https://behance.net/Debora_Santana" target="_blank">
     <img src="./assets/social-behance.svg" width="52" height="52" alt="Behance" title="Behance" />
   </a>
   &nbsp;&nbsp;
